@@ -43,7 +43,10 @@ transform: skew(25deg, 50deg);
  height: 40px;
  padding: 10px;
  font-size: 20px;
- background-color: #2F4F4F;
+}
+
+.btn-submit{
+background-color: #2F4F4F;
  background:linear-gradient(
   90deg,
   #00FFFF 0%,
@@ -51,7 +54,6 @@ transform: skew(25deg, 50deg);
   #DC143C 100%,
  ); 
 }
-
 
 p.transition{
 margin: 10px;
