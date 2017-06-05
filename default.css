@@ -38,6 +38,17 @@ transform: skew(25deg, 50deg);
 }
 
 .btn {
+-webkit-appearance: none;
+-webkit-border-radius: 0;
+margin: 5px;
+ width: 100px;
+ height: 40px;
+ padding: 10px;
+ border: none;
+ font-size: 20px;
+}
+
+.btn-submit {
  background-color: #2F4F4F;
  background:linear-gradient(
   90deg,
