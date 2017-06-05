@@ -23,3 +23,16 @@ text-shadow: 2px 2px 3px #708090;
 .inset_shadow{
  box-shadow: 2px 2px 5px #A9A9A9 inset; padding: 5px; margin: 20px;
 }
+
+.transform{
+ font-size: 10px;
+ width:　100px;
+ text-align: center;
+ padding: 45px 0px;
+ margin: 20px;
+ background-color: #2F4F4F;
+}
+
+.skew{
+transform: skew(25deg, 50deg);
+}
