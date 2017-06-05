@@ -36,3 +36,17 @@ text-shadow: 2px 2px 3px #708090;
 .skew{
 transform: skew(25deg, 50deg);
 }
+
+.btn {
+ background-color: #2F4F4F;
+ background:linear-gradient(
+ 90deg,
+  #00FFFF 0%,
+  #FFFFFF 50%,
+  #DC143C 100%,
+ );
+ 
+ 
+}
+
+
