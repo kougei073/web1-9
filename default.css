@@ -38,6 +38,7 @@ transform: skew(25deg, 50deg);
 }
 
 .btn {
+ background-color: #2F4F4F;
  background:linear-gradient(
   90deg,
   #00FFFF 0%,
