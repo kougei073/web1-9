@@ -51,9 +51,19 @@ margin: 10px;
 }
 
 p.transition a{
- background-color: 
+ background-color: #00FFFF;
+ color: #000000;
+ font-size: 30px;
+ text-decoration: none;
+ padding: 5px;
+ transition: 1s;
 }
 
-
+p.transition a:hover{
+ background-color: #DC143C;
+ color: #FFFFFF;
+ text-decoration: none;
+ padding: 5px;
+}
 
 
