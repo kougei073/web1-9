@@ -16,3 +16,10 @@ font-size: 30px;
 text-shadow: 2px 2px 3px #708090;
 }
 
+#boxshadow{
+ font-size: 30px;
+}
+
+.inset_shadow{
+ box-shadow: 2px 2px 5px #708090 inset; padding: 5px; margin: 20px;
+}
