@@ -3,7 +3,7 @@
 body{
 background-image: url(ピクトグラム.jpg),url(ダイス.jpg);
 background-repeat: no-repeat, no-repeat;
-background-size: contain, cover;
+background-size: 10px 10px, cover;
  
 }
 
