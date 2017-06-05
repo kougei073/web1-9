@@ -38,15 +38,22 @@ transform: skew(25deg, 50deg);
 }
 
 .btn {
- background-color: #2F4F4F;
  background:linear-gradient(
- 90deg,
+  90deg,
   #00FFFF 0%,
   #FFFFFF 50%,
   #DC143C 100%,
- );
- 
- 
+ ); 
 }
+
+p.transition{
+margin: 10px;
+}
+
+p.transition a{
+ background-color: 
+}
+
+
 
 
